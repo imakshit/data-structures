@@ -1,6 +1,4 @@
-package mar16;
 
-//import mar16.LinkedList.Node;
 
 public class LinkedList {
 	private class Node {
