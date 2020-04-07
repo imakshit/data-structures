@@ -1,2 +1,2 @@
-# data-structures
-Data structures and algorithms in java
+# Data Structures and Algorithms
+Data structures and algorithm concepts applied in java and cpp.
